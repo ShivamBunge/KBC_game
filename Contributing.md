@@ -1,3 +1,5 @@
+MORE FUNCTIONALITIES FOR THE PROJECT.
+
 The project contains only 4 sample questions currently defined in the 'Questions(i)' function along with their options.
 
 Their correct answers need to be retuned from the 'correct_ans(i)' function. 
